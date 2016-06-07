@@ -1,0 +1,4 @@
+Branch_name,Sender,Receiver,Transaction_type,Amount,Date,Employee_ID,_Transaction_ID
+Amber_Gold_Central,8647308363,8647308363,deposit,11.0,2016-06-17,EJ111,278265
+Amber_Gold_Central,8647308363,play,online,11.0,2016-06-17,EJ111,923104
+Amber_Gold_Central,multimedia,8647308363,deposit,11.0,2016-06-17,EJ111,923263

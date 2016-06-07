@@ -1,0 +1,14 @@
+Action,User,Branch,Role,Admin,Deposit,Withdrawal,Transfer,Payment,Online,New_name,New_address
+Add,EN431,Amber_Gold_West,CB022,AK366,,,,,,New_employee
+Add,AA760,,,AK366,,,,,,Andrzej
+Add,ME061,Amber_Gold_South,,AK366,,,,,,Emilka
+Add,EM723,Amber_Gold_South,CB11,AK366,,,,,,Marta
+Remove,MS373,Amber_Gold_East,,AK366,,,,,,
+Remove,EM208,Amber_Gold_East,CB17,AK366,,,,,,
+Add,,,New_role,AK366,1.0,0.0,0.0,0.0,0.0
+Add,,,Role,AK366,0.0,0.0,0.0,0.0,0.0
+Add,,,Role1,AK366,12.123,0.0,0.0,0.0,0.0
+Modify,,,CB11,AN293,100.0,0.0,0.0,0.0,0.0
+Remove,,Amber_Gold_North,,AK366,,,,,,,Gebika_11
+Modify,,Amber_Gold_North,,AK366,,,,,,Amber_Gold_North1,Gebika_11
+Add,,Branch,,AK366,,,,,,,Address

@@ -1,0 +1,13 @@
+Branch_name,User_type,Name,Login,Password,Attempts,Change_password,Role
+,A,Krys,AK366,new,0,false
+,A,Koks,AK295,newnew1,0,false
+,A,New_admin3,AN293,newnew1,0,false
+,A,New_admin2,AN476,new,0,true
+,A,Admin,AA669,new,0,true
+Amber_Gold_Central,M,Ambro,MA111,new,0,false
+Amber_Gold_East,M,Szrek,MS373,new,0,true
+Amber_Gold_West,M,Becia,MB044,new,0,true
+Amber_Gold_Central,E,Jola,EJ111,newnew1,0,false,CB17
+Amber_Gold_East,E,Seba,ES878,new,0,true,CB11
+Amber_Gold_East,E,Mati,EM208,new,0,true,CB17
+Amber_Gold_North,E,Kamil,EK111,cYf23X3s,0,true,CB022
